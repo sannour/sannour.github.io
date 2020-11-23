@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.sannour.com/posts/first/</loc>
-    <lastmod>2020-11-22T15:40:42+03:00</lastmod>
+    <loc>http://www.sannour.com/</loc>
+    <lastmod>2020-11-22T15:49:04+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sannour.com/</loc>
+    <loc>http://www.sannour.com/posts/second/</loc>
+    <lastmod>2020-11-22T15:49:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sannour.com/posts/first/</loc>
     <lastmod>2020-11-22T15:40:42+03:00</lastmod>
   </url>
   
