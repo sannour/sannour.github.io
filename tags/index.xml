@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Home</title>
-    <link>http://www.sannour.com/tags/</link>
+    <link>https://www.sannour.com/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://www.sannour.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.sannour.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
